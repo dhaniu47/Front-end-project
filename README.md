@@ -17,10 +17,13 @@ It includes:
 - JavaScript
 
 ## Screenshots
-Screenshot 2026-02-19 220754.png
-Screenshot 2026-02-19 220834.png
-Screenshot 2026-02-19 220903.png
-Screenshot 2026-02-19 220921.png
+## Screenshots
+
+![Home](Screenshot%202026-02-19%20220754.png)
+![Section](Screenshot%202026-02-19%20220834.png)
+![View](Screenshot%202026-02-19%20220903.png)
+![More](Screenshot%202026-02-19%20220921.png)
+
 
 ## How to Use
 Simply visit the live demo link above to view the project.  
