@@ -17,8 +17,10 @@ It includes:
 - JavaScript
 
 ## Screenshots
-![Screenshot1](link-to-screenshot1)  
-![Screenshot2](link-to-screenshot2)
+Screenshot 2026-02-19 220754.png
+Screenshot 2026-02-19 220834.png
+Screenshot 2026-02-19 220903.png
+Screenshot 2026-02-19 220921.png
 
 ## How to Use
 Simply visit the live demo link above to view the project.  
