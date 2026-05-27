@@ -1,9 +1,6 @@
 # Front-end Project
 <img width="1910" height="4336" alt="screencapture-dhaniu47-github-io-Front-end-project-2026-05-27-16_08_09 (2)" src="https://github.com/user-attachments/assets/f034c7ae-4176-4c65-a693-ca3ab4b6344c" />
 
-
-
-
 ## Live Demo
 Check the live website here: [Front-end-project](https://dhaniu47.github.io/Front-end-project/)
 
@@ -19,14 +16,6 @@ It includes:
 - HTML5
 - CSS3
 - JavaScript
-
-## Screenshots
-## Screenshots
-
-![Home](Screenshot%202026-02-19%20220754.png)
-![Section](Screenshot%202026-02-19%20220834.png)
-![View](Screenshot%202026-02-19%20220903.png)
-![More](Screenshot%202026-02-19%20220921.png)
 
 
 ## How to Use
