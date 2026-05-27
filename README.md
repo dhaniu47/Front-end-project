@@ -1,5 +1,6 @@
 # Front-end Project
-<img width="953" height="2149" alt="screencapture-github-dhaniu47-frontend-practice-tree-master-bansal-wire-industries-2026-05-27-15_10_09" src="https://github.com/user-attachments/assets/fbb6e6e1-b901-4733-b688-c421ed84b8f6" />
+![Uploading screencapture-dhaniu47-github-io-Front-end-project-2026-05-27-16_08_09 (2).png…]()
+
 
 
 ## Live Demo
