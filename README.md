@@ -1,5 +1,6 @@
 # Front-end Project
-![Uploading screencapture-dhaniu47-github-io-Front-end-project-2026-05-27-16_08_09 (2).png…]()
+<img width="1910" height="4336" alt="screencapture-dhaniu47-github-io-Front-end-project-2026-05-27-16_08_09 (2)" src="https://github.com/user-attachments/assets/f034c7ae-4176-4c65-a693-ca3ab4b6344c" />
+
 
 
 
